@@ -157,7 +157,7 @@ Make sure all four CSV files are placed inside the `data/` directory.
 ```bash
 python -m streamlit run app.py --server.port 8502
 ```
-
+Live Demo : https://ecommmerce-transactions.streamlit.app/
 ## Author
 
 **Sravani Muthana**
